@@ -1,4 +1,4 @@
-# CoronaVirus Realtime Infection Table
+# COVID-19 Realtime Infection Table
 
 My first frontend demo , vue+axios+sorttable
 
